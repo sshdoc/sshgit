@@ -1,4 +1,3 @@
----
 title: SSHGIT, code repo for SSHDOC
 go-import: ""
 go-source: ""
